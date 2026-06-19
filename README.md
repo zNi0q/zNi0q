@@ -1,29 +1,33 @@
-Yo! I'm Abdullah
+# Hi there 👋, I'm Abdullah Mustapha
+
+I build robust, scalable, and maintainable software systems focused on real-world impact.
+
+## 🚀 About Me
+
+- 🔭 Currently building **[Doks AI](https://github.com/abdullah4tech/doksAI)**
+- 🧭 Developing **[Zenon Router](https://github.com/n8bird-oss/zenon-router)**
+- 🤝 Contributing to **[Stunkjs](http://github.com/I-am-abdulazeez/stunk)**
+- 🌱 Exploring developer experience, open source, and AI-driven engineering workflows
+
+## 🛠️ Focus Areas
+
+- Scalable backend architecture
+- Infrastructure and system design
+- Micro-frontend ecosystems
+- Developer tooling and productivity
+
+## 📌 Featured Work
+
+- [**Doks AI**](https://github.com/abdullah4tech/doksAI) — Intelligent documentation engine for faster onboarding and learning
+- [**Zenon Router**](https://github.com/n8bird-oss/zenon-router) — Lightweight, modular routing solution
+- [**Stunkjs**](http://github.com/I-am-abdulazeez/stunk) — Reactive state management library
+
+## 📫 Connect With Me
+
+- 🌐 Website: [abdullahmustapha.xyz](https://abdullahmustapha.xyz)
+- 💻 GitHub: [@abdullah4tech](https://github.com/abdullah4tech)
+- ✉️ Email: [abdullahmu4life@gmail.com](mailto:abdullahmu4life@gmail.com)
+
 ---
 
-I’m passionate about building **robust, scalable, and maintainable systems** that solve real-world problems. My work focuses on building infrastructure and applications that **perform at scale and endure over time**.
-
-I believe great software is more than code — it’s a balance of **clarity, performance, and purpose**. I enjoy turning complex challenges into elegant, sustainable solutions.
-
-Currently, I’m exploring the intersection of **developer experience, open-source innovation,** and **AI-driven development workflows**.
-
----
-
-### 🔭 What I’m Working On
-
-* Building [**Doks AI**](https://github.com/abdullah4tech/doksAI) — an intelligent documentation engine for faster learning and onboarding.
-* Developing [**Zenon Router**](https://github.com/n8bird-oss/zenon-router) — a lightweight and modular routing solution.
-* Contributing to [**Stunkjs**](http://github.com/I-am-abdulazeez/stunk) — a lightweight, reactive state management library
-* Experimenting with scalable backend architectures and micro-frontend systems.
-
----
-
-### 📫 Let’s Connect
-
-You can find me building, writing, or collaborating across communities:
-
-* [**abdullahmustapha.xyz**](https://abdullahmustapha.xyz) — my portfolio & projects
-* [**GitHub**](https://github.com/abdullah4tech) — open-source work
-* [**Email**](mailto:abdullahmu4life@gmail.com) — reach out directly
-
----
+> I enjoy turning complex challenges into elegant, sustainable solutions.
