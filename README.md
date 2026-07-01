@@ -9,15 +9,6 @@ Currently, I’m exploring the intersection of **developer experience, open-sour
 
 ---
 
-### 🔭 What I’m Working On
-
-* Building [**Doks AI**](https://github.com/abdullah4tech/doksAI) — an intelligent documentation engine for faster learning and onboarding.
-* Developing [**Zenon Router**](https://github.com/n8bird-oss/zenon-router) — a lightweight and modular routing solution.
-* Contributing to [**Stunkjs**](http://github.com/I-am-abdulazeez/stunk) — a lightweight, reactive state management library
-* Experimenting with scalable backend architectures and micro-frontend systems.
-
----
-
 ### 📫 Let’s Connect
 
 You can find me building, writing, or collaborating across communities:
